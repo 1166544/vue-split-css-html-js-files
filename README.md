@@ -3,7 +3,7 @@
 > Vue模板、JS、CSS分离实现
 
 ### 说明文档:
-
+> https://juejin.im/post/5cdffa2af265da1b8e706f23
 
 ### 使用部骤
 
